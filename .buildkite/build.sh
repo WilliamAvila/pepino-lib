@@ -1,6 +1,7 @@
 #!/bin/bash
 
 set -eo pipefail
+buildkite-agent meta-data set "acklen:slack:channel" "pepino"
 echo "--- Set Node Version"
 . "$NVM_DIR/nvm.sh"
 nvm current

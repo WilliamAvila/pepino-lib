@@ -1,6 +1,6 @@
 # Pepino App
 
-[![Build status](https://badge.buildkite.com/78eeb1af4d4253c61cfffafae432113c987bd7f790772ee8cb.svg)](https://buildkite.com/acklen-avenue/pepino-lib)
+[![Build status](https://badge.buildkite.com/97c37663492bfe87dc604023ded68cfc8211ccec522f504572.svg)](https://buildkite.com/wama/pepino)
 
 pepino-lib translates plain english UI steps from the [Pepino Language](https://github.com/AcklenAvenue/pepino-language) into UI automation instructions.
 
